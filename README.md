@@ -1,5 +1,5 @@
-#Plural Sight TDD Spring Junit5
+# Plural Sight TDD Spring Junit5
 
-##exampleservice    =>  Testing against a mysql backend
+## exampleservice    =>  Testing against a mysql backend
 
-##reviewservice     =>  Testing with Spring Data and a NoSQL Backend
+## reviewservice     =>  Testing with Spring Data and a NoSQL Backend
